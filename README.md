@@ -1,1 +1,1 @@
-# bnn_tutorial
+# Tutorial on Scalable Bayesian Methods in Machine Learning
